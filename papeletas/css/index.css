@@ -1,0 +1,13 @@
+
+#textoPr
+{
+
+   width:600px;
+	background-color:#DCDCDC;
+	color:"black"; 
+	margin:0 auto;
+	text-align:left;
+	border-radius:30px;
+	padding:100px;
+	box-shadow:5px 10px 40px rgba(5,8,9,0.5);
+}         

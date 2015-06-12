@@ -1,0 +1,109 @@
+
+h1 {
+    color:#3366cc;
+    font = family:negrita;
+    font=size:50px;
+      
+  }
+
+
+ div{
+   
+          width:200px;
+          margin-top : 50px;
+           
+
+}
+
+ ul {
+     list-style:none;
+}
+
+
+   ul li{
+    
+            margin-top:5px;
+             font-family: tahoma;
+             font-size:12px;
+             background-color:#000080;
+               width:125px;
+                  padding-top:20px;
+               padding-bottom:2px;
+                border-radius:20px 20px 20px 20px;
+                  padding-left:20px;
+                   box-shadow:1px 1px 40px white;
+             -webkit-transsition: padding-left 0.6s;
+              color: #66ffcc;
+   }
+li:hover {                               
+				background:#666;
+				color:red;
+				text-align:center;
+								}
+				li: {
+					background:silver;
+					color:#00F;
+					text-align:right;
+                      }
+    div   ul li:hover {     
+              padding-left:50px;           
+}
+body {
+       background-color:#0066cc;
+      background-image:url("imagenes/rtt.jpg");
+        background-size: 70px;
+       background-repeat:repeat-x;    
+     }
+
+      #contenido
+    {
+	width:100px;
+	margin:55 auto;
+	text-align:center;
+	 
+     }
+
+
+  #textoPr
+{
+	width:700px;
+	background-color:#ccccff;
+	color:#001111; 
+	margin:0 auto;
+	text-align:left;
+	border-radius:100px;
+	padding:50px;
+	box-shadow:10px 6px 20px rgba(0,0,0,0.5);
+}
+
+h1{
+     color: #330000;
+     font-size : 25px;
+     background-color:#6699CC;
+}
+
+h2{
+        color: #0099cc;
+     font-size : 30px;
+   }
+
+h3{
+        color: black;
+       background-color:;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

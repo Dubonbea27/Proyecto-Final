@@ -1,0 +1,108 @@
+
+h1 {
+    color:#3366cc;
+    font = family:negrita;
+    font=size:50px;
+      
+  }
+
+
+ div{
+   
+          width:200px;
+          margin-top : 50px;
+           
+
+}
+
+ ul {
+     list-style:none;
+}
+
+
+   ul li{
+    
+            margin-top:20px;
+             font-family:Boadway;
+             font-size:13px;
+             background-color:#cccccc;
+               width:120px;
+                  padding-top:10px;
+                   border-radius:50px 45px 35px 40px;
+                  padding-left:25px;
+                   box-shadow:1px 1px 0px black;
+             -webkit-transsition: padding-left 0.9s;
+              color: black;
+   }
+li:hover {                               
+				background:#666;
+				color:black;
+				text-align:center;
+								}
+				li: {
+					background:silver;
+					color:#cccccc;
+					text-align:right;
+                      }
+    div   ul li:hover {     
+              padding-left:50px;           
+}
+body {
+       background-color:#3399ff;
+      background-image:url("imagenes/rtt.jpg");
+        background-size: 70px;
+       background-repeat:repeat-x;    
+     }
+
+      #contenido
+    {
+	width:100px;
+	margin:55 auto;
+	text-align:center;
+	 
+     }
+
+
+  #textoPr
+{
+	width:700px;
+	background-color:#ccccff;
+	color:#001111; 
+	margin:0 auto;
+	text-align:left;
+	border-radius:100px;
+	padding:50px;
+	box-shadow:10px 6px 20px rgba(0,0,0,0.5);
+}
+
+h1{
+     color: #330000;
+     font-size : 25px;
+     background-color:#6699CC;
+}
+
+h2{
+        color: #0099cc;
+     font-size : 30px;
+   }
+
+h3{
+        color: white;
+       background-color:#9999ff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
